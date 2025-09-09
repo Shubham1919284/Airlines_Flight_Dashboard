@@ -8,7 +8,7 @@ This project demonstrates how **data visualization and analytics** can uncover b
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Airlines_Flight_Dashboard.png" alt="Airlines Flight Dashboard" width="800"/>
+  <img src="https://github.com/Shubham1919284/Airlines_Flight_Dashboard/blob/092ec2ddbbfc6e5a631e086a409591ffae458414/Airlines%20Flight%20Dashboard...png" alt="Airlines Flight Dashboard" width="800"/>
 </p>
 
 ---
